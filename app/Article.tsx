@@ -2,6 +2,12 @@ import React from 'react'
 import LiveTimeStamp from './LiveTimeStamp';
 import ReadMoreButton from './ReadMoreButton';
 
+type Props = {
+  article: Article;
+};
+
+
+
 function Article({ article }: Props) {
 
   var  description = article.description;

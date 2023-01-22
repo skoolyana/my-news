@@ -2,6 +2,7 @@ import React from 'react'
 import fetchNews from '../../../lib/fetchNews';
 import NewsList from '../../NewsList';
 import response from '../../../responseEntertainment.json'
+import { categories } from '../../../constants';
 
 
 
@@ -33,3 +34,12 @@ async function NewsCategoryPage({params: {category}} : Props) {
 }
 
 export default NewsCategoryPage
+
+export async function generateStaticParams() {
+    return categories.map(category => (
+        {
+            category: category
+        }
+    ))
+}
+
