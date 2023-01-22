@@ -1,0 +1,96 @@
+{
+    "pagination": {
+        "limit": 25,
+        "offset": 0,
+        "count": 7,
+        "total": 7
+    },
+    "data": [
+       
+        {
+            "author": null,
+            "title": "Hollywood star Sharon Stone gasps, screams ‘oh my God’ after seeing Shah Rukh Khan next to her",
+            "description": "Sharon Stone screamed and Shah Rukh watched her response and leaned in to say hello. They were seen on camera exchanging \"Namaste\" as well.",
+            "url": "https://www.businesstoday.in/latest/trends/story/hollywood-star-sharon-stone-gasps-screams-oh-my-god-after-seeing-shah-rukh-khan-next-to-her-355164-2022-12-03?utm_source=rssfeed",
+            "source": "businesstoday",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202212/ezgif-sixteen_nine_28.jpg?size=948:533",
+            "category": "general",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-12-03T14:23:50+00:00"
+        },
+        {
+            "author": null,
+            "title": "Avatar: The Way of Water box office collection Day 1: James Cameron&#039;s magnum opus earns Rs 41 crore in India",
+            "description": "The film is the second biggest Hollywood opener in India. Avatar: The Way of Water has surpassed Spider-Man, Avengers Infinity War and Doctor Stanger to become the second-highest Hollywood opener in India.",
+            "url": "https://www.businesstoday.in/trending/entertainment/story/avatar-the-way-of-water-box-office-collection-day-1-james-camerons-magnum-opus-earns-rs-41-crore-in-india-356794-2022-12-17?utm_source=rssfeed",
+            "source": "businesstoday",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202212/ezgif-sixteen_nine_185.jpg?size=948:533",
+            "category": "general",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-12-17T13:34:08+00:00"
+        },
+        {
+            "author": "AFP",
+            "title": "Who is Viktor Bout, the Russian arms smuggler, involved in the prisoner swap?",
+            "description": "Bout’s notoriety inspired Hollywood film “Lord of War”, starring Nicolas Cage, in which the anti-hero escaped justice",
+            "url": "https://www.thehindu.com/news/international/who-is-viktor-bout-the-russian-arms-smuggler-involved-in-the-prisoner-swap/article66240117.ece",
+            "source": "The Hindu",
+            "image": "https://th-i.thgim.com/public/news/national/eaibsi/article66240101.ece/alternates/LANDSCAPE_1200/2010-10-05T120000Z_1884713760_GM1E6A51BHS01_RTRMADP_3_THAILAND-BOUT-1.jpeg",
+            "category": "general",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-12-08T15:39:44+00:00"
+        },
+        {
+            "author": null,
+            "title": "Battery drained; link lost: India’s Mars orbiter craft Mangalyaan completes its long innings",
+            "description": "The Mangalyaan mission, mounted at a budget lower than the Hollywood movie Gravity, exceeded its operational expectations as the spacecraft was inserted into Martian orbit on September 24, 2014 in the first attempt.",
+            "url": "https://www.businesstoday.in/latest/trends/story/battery-drained-link-lost-indias-mars-orbiter-craft-mangalyaan-completes-its-long-innings-348812-2022-10-03?utm_source=rssfeed",
+            "source": "businesstoday",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202210/mars_orbiter_650_092414122409-sixteen_nine.jpg?size=948:533",
+            "category": "general",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-10-03T04:18:54+00:00"
+        },
+     
+        {
+            "author": null,
+            "title": "‘Avatar 2’ rakes in Rs 20 cr in advance booking in India, expected to earn between Rs 40- Rs 50 cr on Friday: Report",
+            "description": "The James Cameron-directed movie is anticipated to earn between Rs 40 crore and Rs 50 crore at the Indian box office on Friday, a respectable start for any big-budgeted Hollywood production",
+            "url": "https://www.businesstoday.in/latest/trends/story/avatar-2-rakes-in-rs-20-cr-in-advance-booking-in-india-expected-to-earn-between-rs-40-rs-50-cr-on-friday-report-356737-2022-12-16?utm_source=rssfeed",
+            "source": "Business Today | Latest Stock Market And Economy News India",
+            "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202212/ezgif-sixteen_nine_172.jpg?size=948:533",
+            "category": "business",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-12-16T14:07:10+00:00"
+        },
+        {
+            "author": "Reuters",
+            "title": "&#039;Fabelmans,&#039; &#039;Banshees&#039; win top awards as Hollywood re-embraces Golden Globes",
+            "description": "The two biggest box office successes of 2022 - “Avatar: The Way of Water” and “Top Gun: Maverick” - were shut out.",
+            "url": "https://www.thehindu.com/news/international/fabelmans-banshees-win-top-awards-as-hollywood-re-embraces-golden-globes/article66365692.ece",
+            "source": "The Hindu",
+            "image": "https://th-i.thgim.com/public/incoming/4619sx/article66364490.ece/alternates/LANDSCAPE_1200/2023-01-11T045634Z_773847013_HP1EJ1B0DQ88B_RTRMADP_3_AWARDS-GOLDEN-GLOBES.JPG",
+            "category": "general",
+            "language": "en",
+            "country": "in",
+            "published_at": "2023-01-11T17:22:42+00:00"
+        },
+        {
+            "author": null,
+            "title": "PVR reports Rs 71 cr loss in Q2 as Bollywood’s underperformance continues to hit margins",
+            "description": "India’s largest multiplex operator PVR Cinemas suffered the underperformance of Bollywood and Hollywood releases in the September quarter, even though it clocked its “busiest day of 2022” during the period.",
+            "url": "https://www.businesstoday.in/latest/corporate/story/pvr-reports-rs-71-cr-loss-in-q2-as-bollywoods-underperformance-continues-to-hit-margins-350065-2022-10-17?utm_source=rssfeed",
+            "source": "Business Today | Latest Stock Market And Economy News India",
+            "image": null,
+            "category": "business",
+            "language": "en",
+            "country": "in",
+            "published_at": "2022-10-17T12:22:55+00:00"
+        }
+    ]
+}
